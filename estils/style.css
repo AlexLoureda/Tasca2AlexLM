@@ -2,6 +2,7 @@
   padding: 10;
   margin: 10;
 }
+<<<<<<< HEAD
 
 body {
   background: lightblue;
@@ -14,7 +15,7 @@ img {
   padding: 10px;
 }
 
-.article {
+.articulo {
   height: 135px;
   width: 400px;
 }
@@ -23,6 +24,8 @@ p {
   padding: 10px;
 }
 
-cos {
+cuerpo {
   display: table;
 }
+=======
+>>>>>>> parent of b51c08c (en una branca nova s'ha afejit imatges i mes text)
